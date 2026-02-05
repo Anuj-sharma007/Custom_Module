@@ -1,0 +1,1 @@
+This is a custom module created by me to ease the tasks null handling in eda.It has basic function which can be used for checking nulls summary,testing different methods,imputing different methods etc.
